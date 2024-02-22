@@ -1,5 +1,5 @@
 
-## Sobre o projeto Assistente:hospital:
+## Sobre o projeto Assistente:
 
 Esse assistente de voz desenvolvido em Python [Assistente] é um programa que utiliza reconhecimento de voz, processamento de linguagem natural e síntese de voz para interagir com os usuários por meio de comandos de voz. Esse assistente digital pode retornar informaçções relevante ou executar funções específicas conforme programado pelo desenvolvedor.
 
