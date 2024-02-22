@@ -5,9 +5,9 @@ Esse assistente de voz desenvolvido em Python [Assistente] é um programa que ut
 
 
 ### :computer: Recursos / Features:
-- Monitoramente de temperatura (Webscraping);
-- Despertador;
-- Comandos de Voz;
+1. Monitoramente de temperatura (Webscraping);
+2. Despertador;
+3. Comandos de Voz;
 - [x] Assistente Apresentação : irá abrir uma arquivo office;
 - [x] Assistente fechar : irá fechar a janela que foi aberta;
 - [x] Assistente aceitar : irá dar enter na janela aberta;
@@ -20,7 +20,7 @@ Esse assistente de voz desenvolvido em Python [Assistente] é um programa que ut
 - [x] Assistente pergunta: Irá conectar ao chat gpt e passar sua pergunta e receberá a resposta;
 - [x] Assistente frase motivacinal: Irá escolher uma frase motivacional de uma lista em python;
 - [x] Assistente qual o número do almoxarifado: Irá dizer o número do setor;
-
+4. E o que você quiser programar
 
 ## :rocket: Tecnologias utilizadas / technologies used:
 - Python
